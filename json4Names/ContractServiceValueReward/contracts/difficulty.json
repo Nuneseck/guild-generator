@@ -10,28 +10,28 @@
             "diceRangeMin": 1,
             "diceRangeMax": 10,
             "valueMultiplier": 2,
-            "rewardMultiplier": 0.666
+            "rewardMultiplier": 0.25
         },
         "11-16": {
             "name": "Medio",
             "diceRangeMin": 11,
             "diceRangeMax": 16,
             "valueMultiplier": 4,
-            "rewardMultiplier": 1
+            "rewardMultiplier": 0.5
         },
         "17-19": {
             "name": "Dificil",
             "diceRangeMin": 17,
             "diceRangeMax": 19,
             "valueMultiplier": 6,
-            "rewardMultiplier": 2
+            "rewardMultiplier": 1
         },
         "20": {
             "name": "Mortal",
             "diceRangeMin": 20,
             "diceRangeMax": 20,
             "valueMultiplier": 8,
-            "rewardMultiplier": 3
+            "rewardMultiplier": 2
         }
     }
 }

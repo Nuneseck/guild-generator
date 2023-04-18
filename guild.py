@@ -96,7 +96,6 @@ class GuildMaker:
 						if diceResult in range(data[str(i)]["matrixRangeMin"], data[str(i)]["matrixRangeMax"]+1):
 							self.guildDiceBonus	= 5
 
-		self.exist = True
 		self.guildJson["exist"] = self.exist
 		self.guildJson["guildDiceBonus"] = self.guildDiceBonus
 		self.guildJson["rolledDice"] = diceResult
