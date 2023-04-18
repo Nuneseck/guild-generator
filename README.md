@@ -1,5 +1,5 @@
 # guild-rpg-maker
-This is a application to generate guild and contracts for RPG D&amp;D based
+This is a application to generate guild and contracts for RPG Tormenta based
 
 First you'll need to download and install the Python 3.11.2 or higher
 You'll be able to found the python to download on this [link](https://www.python.org/downloads/)
